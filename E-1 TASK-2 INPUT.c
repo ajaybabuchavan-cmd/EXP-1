@@ -1,3 +1,4 @@
+//Ajay Babu Chavan,UIN:-251P081,Year:-F.E,Division:-D
 #include <stdio.h>
 int main()
 {
@@ -19,4 +20,5 @@ int main()
     (avg >= 50) ? printf("Eligible for admission.\n") : printf("Not eligible for admission.\n");
 
     return 0;
+
 }
